@@ -91,5 +91,12 @@
   display: block;
 }
 
+/*neighborhood photos */
+
+.neighborhood-photo {
+  display: inline-block;
+  padding: 25px 10px;
+}
+
 
 
